@@ -17,14 +17,15 @@ ul {
 	background-color: #1f1f1f;
 	line-height: 0px;
   }
-  
-  li {
-	float: right;
+
+  ul li{
+	  margin-top: 1%;
+	  float: right;
+
   }
-  											
+ 											
   li a {
 	display: inline-block;
-	line-height: 0px;
 	color: white;
 	text-align: center;
 	padding: 14px 16px;
